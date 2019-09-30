@@ -1,0 +1,19 @@
+
+-
+    id: 1
+    name: c_1
+    input:
+      paramA: xxx
+      paramB: 123
+    requestMethod: get
+    assert:
+      status: 0
+
+-
+    id: 2
+    name: c_2
+    input:
+      paramA: xxx
+      paramB: 123
+    assert:
+      status: 0

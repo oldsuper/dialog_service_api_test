@@ -1,0 +1,12 @@
+-
+  id: 1
+  name: s_1
+  case_list: 1
+  level: 0
+  run: 0
+-
+  id: 2
+  name: s_2
+  case_list: [1,2]
+  level: 1
+  run: 1
