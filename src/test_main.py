@@ -9,7 +9,6 @@ from pprint import pprint
 import json
 import ConfigParser
 
-
 def setup():
     pass
 
